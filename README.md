@@ -1,5 +1,5 @@
 # SoftwareTesting Project-1
-Project #1 - Testcase and Test Plan for https://awesomeqa.com/ui/index.php?route=common/home
+Project 1 - Testcase and Test Plan for https://awesomeqa.com/ui/index.php?route=common/home
 
-Test Plan
-Testcases
+1. Test Plan
+2. Testcases
